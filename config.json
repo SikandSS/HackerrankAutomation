@@ -1,0 +1,9 @@
+{
+    "userid":"name",
+    "password":"password",
+    "moderators":["mod_name 1",
+                  "mod_name 2",
+                  "mod_name 3",
+                  "mod_name 4"
+                 ]
+}
